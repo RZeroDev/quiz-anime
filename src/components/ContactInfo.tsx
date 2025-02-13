@@ -11,18 +11,18 @@ export function ContactInfo() {
     >
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-gray-800 dark:text-white">
-          <span className="font-bold">© 2024 Votre Nom</span>
+          <span className="font-bold">© 2024 Hadi Radji (RZero Dev)</span>
         </div>
         <div className="flex gap-4">
           <a
-            href="mailto:votre@email.com"
+            href="mailto:hadicodemaster@email.com"
             className="text-gray-600 hover:text-purple-600 dark:text-gray-300 dark:hover:text-purple-400 transition-colors"
             aria-label="Email"
           >
             <Mail className="w-5 h-5" />
           </a>
           <a
-            href="https://github.com/votre-github"
+            href="https://github.com/RZeroDev"
             className="text-gray-600 hover:text-purple-600 dark:text-gray-300 dark:hover:text-purple-400 transition-colors"
             target="_blank"
             rel="noopener noreferrer"
@@ -31,7 +31,7 @@ export function ContactInfo() {
             <Github className="w-5 h-5" />
           </a>
           <a
-            href="https://linkedin.com/in/votre-linkedin"
+            href="https://www.linkedin.com/in/hadi-mevtr/ "
             className="text-gray-600 hover:text-purple-600 dark:text-gray-300 dark:hover:text-purple-400 transition-colors"
             target="_blank"
             rel="noopener noreferrer"
